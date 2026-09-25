@@ -2,8 +2,6 @@
 
 An AI-powered resume analyzer that scores your resume against any job description.
 
-🔗 **Live Demo:** [PASTE YOUR STREAMLIT APP LINK HERE]
-📸 **Screenshot:** [PASTE A SCREENSHOT OF YOUR APP HERE]
 
 ## 🎯 The Problem
 Job seekers struggle to know if their resume matches a specific job description. 
